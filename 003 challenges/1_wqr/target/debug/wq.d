@@ -1,0 +1,1 @@
+/home/duykhanh471/Documents/Projects/1-Personal/rust-learning-journey/003\ challenges/1_wq/target/debug/wq: /home/duykhanh471/Documents/Projects/1-Personal/rust-learning-journey/003\ challenges/1_wq/src/main.rs
