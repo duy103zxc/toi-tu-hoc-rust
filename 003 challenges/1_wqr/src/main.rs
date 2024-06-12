@@ -34,3 +34,4 @@ fn count(filename: &str, option: &str) -> Result<(), std::io::Error> {
     }
     Ok(())
 }
+
