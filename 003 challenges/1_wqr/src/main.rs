@@ -25,7 +25,7 @@ fn count(filename: &str, option: &str) -> Result<(), std::io::Error> {
 
     match option {
         "word" => {
-            println!("word count:{}", word_counter)
+            println!("word count: {}", word_counter)
         },
         "line" => {
             println!("line count: {}", line_counter)
